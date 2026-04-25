@@ -14,13 +14,13 @@ This tool does everything automatically in under 30 minutes.
 
 ## 📊 Output — 3 Excel Sheets
 ### All Leads
-![All Leads](images/all_leads.png)
+![All Leads](image/all_leads.png)
 
 ### Top 10 Leads
-![Top 10 Leads](images/top_10.png)
+![Top 10 Leads](image/top_10.png)
 
 ### Summary Report
-![Summary Report](images/summary_report.png)
+![Summary Report](image/summary_report.png)
 
 ## 📈 Sample Results
 - Total leads scraped: 93
